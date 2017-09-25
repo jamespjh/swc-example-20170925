@@ -7,3 +7,4 @@ A list of some mountains:
 * Helvellyn
 * Blencathra
 * Yr Wyddfa
+* Ben Nevis
