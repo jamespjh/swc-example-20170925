@@ -7,4 +7,4 @@ A list of some mountains:
 * Helvellyn
 * Blencathra
 * Yr Wyddfa
-* Ben Nevis, which is in Wales
+* Ben Nevis, which is in Wales, and is the tallest mountain in the UK
