@@ -6,3 +6,4 @@ A list of some mountains:
 * Scafell Pike
 * Helvellyn
 * Blencathra
+* Yr Wyddfa
