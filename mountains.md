@@ -8,3 +8,4 @@ A list of some mountains:
 * Blencathra
 * Yr Wyddfa
 * Ben Nevis, and is the tallest mountain in the UK.
+* Everest
